@@ -12,7 +12,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("cisco test!!!");
         for (int i = 0; i < 12; i++) {
-			System.out.println(var+i);
+			System.out.println(var*i);
 		}
     }
 }
