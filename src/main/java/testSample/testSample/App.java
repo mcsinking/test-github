@@ -13,8 +13,10 @@ public class App
         System.out.println("cisco test!!!");
         for (int i = 0; i < 12; i++) {
 			System.out.println(var+i);
+
 			System.out.println("done.");
 			System.out.println("best");
+
 		}
     }
 }
